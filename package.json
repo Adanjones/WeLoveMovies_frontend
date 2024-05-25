@@ -6,16 +6,19 @@
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^12.2.0",
-    "markdown": "^0.5.0",
+    "css-select": "^4.1.0",
+    "markdown-it": "^14.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
+    "react-scripts": "^5.0.1",
+    "svgo": "^2.8.0",
     "web-vitals": "^0.2.4"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.16.0"
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
+    "@rollup/plugin-terser": "^0.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
